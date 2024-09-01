@@ -1,0 +1,29 @@
+body{
+  background-color: #66BFBF;
+}
+hr{
+  background-color: #606676;
+  border-style: none;
+  border-top-style: dashed;
+  width: 100%;
+  border-width: 3px;
+}
+
+.a{
+  color: red;
+}
+.b{
+  color: green;
+}
+.c{
+  font-size: 150%;
+}
+.fh{
+  color: red;
+}
+.sh{
+  color: green;
+}
+p:hover{
+  background-color: blue;
+}
